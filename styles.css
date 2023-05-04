@@ -1,0 +1,38 @@
+.container{
+    border-radius: 5%;
+    border-color: rgb(222, 176, 176);
+    background-color: white;
+    padding: 10%;
+}
+.tittle{
+    background-color: white;
+    padding: 5px;
+}
+/* .main{
+    background-color: white;
+    border: 5%;
+    border-color: aqua;
+} */
+/* .footer{
+    display: flex;
+    justify-content: end;
+} */
+.enviar{
+    display: flex;
+    justify-content: end;
+}
+input{
+    margin-right: 20px;
+}
+/* .button{
+    display: flex;
+    justify-content: end;
+} */
+.cancel{
+    margin-right: 5px;
+}
+.sendB{
+    float: inline-end;
+    border-radius: 5%;
+    border-color: rgb(222, 176, 176);
+}
